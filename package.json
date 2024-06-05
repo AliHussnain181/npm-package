@@ -1,0 +1,20 @@
+{
+  "name": "redux-lite-alibhai",
+  "version": "1.0.0",
+  "description": "A lightweight state management library inspired by Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/redux-lite.git"
+  },
+  "keywords": ["redux", "state management", "lite"],
+  "author": "Your Name <youremail@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/redux-lite/issues"
+  },
+  "homepage": "https://github.com/yourusername/redux-lite#readme"
+}
