@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/redux-lite.git"
+    "url": "https://github.com/AliHussnain181/npm-package.git"
   },
   "keywords": ["redux", "state management", "lite"],
-  "author": "Your Name <youremail@example.com>",
+  "author": "Ali",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/redux-lite/issues"
+    "url": "https://github.com/AliHussnain181/npm-package.git"
   },
-  "homepage": "https://github.com/yourusername/redux-lite#readme"
+  "homepage": "https://github.com/AliHussnain181/npm-package.git"
 }
